@@ -14,7 +14,6 @@ module3 = Module("Operation Management, "BA4532")
 dep1 = Department("Civil")
 dep2 = Department("IT")
 
-lec1 = Lecturer("Mr. Bandara, 20003)
 
 age = 12
 print("Hi, New Student")
