@@ -3,6 +3,7 @@ from student import Student
 from module import Module
 from lecturer import Lecturer
 
+
 stu1 = Student("Devi", 200134564500)
 stu2 = Student("Dasu", 199867540987)
 stu3 = Student("Dinusha", 200345379871)
@@ -23,3 +24,4 @@ print(stu2.nic)
 print(module1.name)
 print(dep1.name)
 print(lec1.id)
+
