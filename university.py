@@ -16,6 +16,7 @@ dep1 = Department("Civil")
 dep2 = Department("IT")
 
 lec1 = Lecturer("Perera", 200123)
+lec2 = Lecturer("Gunawardhana", 200124)
 
 age = 12
 print("Hi, New Student")
